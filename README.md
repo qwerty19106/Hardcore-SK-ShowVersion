@@ -4,7 +4,7 @@ It parse launcher config and show HardcoreSK build version in season string, for
 The "abcd123" string is first 7 symbols of installed version hash.
 
 ## Motivation
-It gives build version to HardcoreSK Project Team, when one send screenshot as bug report.
+It gives build version to HardcoreSK Project Team when someone sent a screenshot as a bug report.
 
 ## Install
 The `ShowHSKVersion.dll` file should be plased to `RimWorld\Mods\Core_SK\Assemblies\` directory.
