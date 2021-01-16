@@ -6,6 +6,9 @@ The "abcd123" string is first 7 symbols of installed version hash.
 ## Motivation
 It gives build version to HardcoreSK Project Team, when one send screenshot as bug report.
 
+## Install
+The `ShowHSKVersion.dll` file should be plased to `RimWorld\Mods\Core_SK\Assemblies\` directory.
+
 ## Settings
 The mod adds "Show HSK Version" entry in mods settings menu.
 You can click checkbox to turn off build version showing.
